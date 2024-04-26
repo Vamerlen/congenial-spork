@@ -2,6 +2,8 @@
 
 ![Design preview for the Fylo dark theme landing page challenge](./design/desktop-preview.jpg)
 
+** |[Live]("https://congenial-spork-one.vercel.app/")| [Github]("https://github.com/Vamerlen/congenial-spork")
+
 ## Welcome! 👋
 
 Thanks for checking out this front-end coding challenge.
